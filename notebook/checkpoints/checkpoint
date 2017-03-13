@@ -1,0 +1,2 @@
+model_checkpoint_path: "char_rnn_langmodel.ckpt"
+all_model_checkpoint_paths: "char_rnn_langmodel.ckpt"
